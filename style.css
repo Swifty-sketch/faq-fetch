@@ -1,0 +1,18 @@
+html {
+    background: #f2f1f4;
+    color: #19171c;
+}
+
+.title {
+    font-size: x-large;
+    width: 60%;
+    border: solid;
+    margin: auto;
+    margin-top: 1px;
+}
+
+.description {
+    display: none;
+    width: 60%;
+    margin: auto;
+}
